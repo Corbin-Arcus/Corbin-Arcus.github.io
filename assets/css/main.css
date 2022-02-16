@@ -141,6 +141,12 @@ body {
   -webkit-text-size-adjust: none;
 }
 
+
+.logo_img{
+  height: 15px;
+  width: 15px;
+}
+
 mark {
   background-color: transparent;
   color: inherit;
@@ -1810,7 +1816,3 @@ body.is-preload #footer {
   opacity: 0;
 }
 
-.logo_img{
-  height: 15px;
-  width: 15px;
-}
